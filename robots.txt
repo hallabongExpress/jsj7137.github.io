@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://jsj7137.github.io/sitemap-index.xml
+Host: https://jsj7137.github.io

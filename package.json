@@ -1,9 +1,10 @@
 {
-  "name": "gatsby-starter-default",
+  "homepage":"https://jsj7137.github.io/",
+  "name": "hallbong-express",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "주니어 개발자로서의 저를 표현한 블로그입니다.",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "@HallbongExpress <jsj20015@naver.com>",
   "dependencies": {
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",

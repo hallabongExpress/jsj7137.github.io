@@ -12,7 +12,7 @@ module.exports = {
     title: `특급한라봉의 개발 블로그`,
     description: `주니어 개발자로서의 저를 표현한 블로그입니다.`,
     author: `@HallbongExpress`,
-    siteUrl: 'https://my-website-link.com/', // 배포 후 변경 예정
+    siteUrl: 'https://jsj7137.github.io/',
   },
   plugins: [
     {
@@ -25,7 +25,7 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-canonical-urls',
       options: {
-        siteUrl: 'https://my-website.com/',
+        siteUrl: 'https://jsj7137.github.io/',
         stripQueryString: true,
       },
     },
